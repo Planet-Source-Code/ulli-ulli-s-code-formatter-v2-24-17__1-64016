@@ -1,0 +1,9 @@
+This Visual Basic Add-In will format your code for a generally accepted indentation - one tab per structure level, the tab width being obtained from the IDE. It will also check your code for some of the most common ommissions and traps. Included are a Code Printer, a Copy Facility, a Code Structure Viewer and an option to create WinXP manifest files and to modify your code to make use of them.
+
+Simply compile the DLL into your VB directory and then use the AddIns Manager to add it to the AddIns Menu.
+
+------------------------------------------------------------------------
+
+VB seems to be a bit sluggish when a summary is inserted into the code pane, I don't know why that is so.
+
+See dCodeFormatter (dCodeFormat.Dsr) for a complete list of modifications, fixes, and known quirks.
